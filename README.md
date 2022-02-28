@@ -1,1 +1,1 @@
-# Python-Projects
+Pong in Python using pygame!
